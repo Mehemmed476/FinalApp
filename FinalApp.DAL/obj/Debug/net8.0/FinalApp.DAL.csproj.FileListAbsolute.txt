@@ -1,0 +1,17 @@
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/bin/Debug/net8.0/FinalApp.DAL.deps.json
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/bin/Debug/net8.0/FinalApp.DAL.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/bin/Debug/net8.0/FinalApp.DAL.dll
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/bin/Debug/net8.0/FinalApp.DAL.pdb
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/bin/Debug/net8.0/FinalApp.Core.dll
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/bin/Debug/net8.0/FinalApp.Core.pdb
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.csproj.AssemblyReference.cache
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.csproj.CopyComplete
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.dll
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/refint/FinalApp.DAL.dll
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.pdb
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/FinalApp.DAL.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.DAL/obj/Debug/net8.0/ref/FinalApp.DAL.dll

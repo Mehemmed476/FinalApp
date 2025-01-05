@@ -1,0 +1,12 @@
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/bin/Debug/net8.0/FinalApp.Core.deps.json
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/bin/Debug/net8.0/FinalApp.Core.dll
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/bin/Debug/net8.0/FinalApp.Core.pdb
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/FinalApp.Core.csproj.AssemblyReference.cache
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/FinalApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/FinalApp.Core.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/FinalApp.Core.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/FinalApp.Core.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/FinalApp.Core.dll
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/refint/FinalApp.Core.dll
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/FinalApp.Core.pdb
+/Users/mehemmedxelilzade/RiderProjects/FinalApp/FinalApp.Core/obj/Debug/net8.0/ref/FinalApp.Core.dll
